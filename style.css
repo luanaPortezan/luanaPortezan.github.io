@@ -1,0 +1,81 @@
+htm, body{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #ead6d5;
+    color:#403b3a;
+    font-family: 'Montserrat';
+	text-align: center;
+}
+
+/* Características da barra de navegação */
+
+.navigation {
+    background-color: #958888;
+    height: 50px;
+    font-family: sans-serif;
+}
+.navigation a {
+    color: white;
+    text-decoration: none;
+}
+.navigation a:hover{
+    color:#403b3a;
+}
+.navigation li {
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 50px;
+    font-size: 16px;
+    font-weight: 100px;
+}
+
+/* Características do nome */
+
+h1 {
+    color: #403b3a
+}
+
+/* Características da foto do perfil */
+
+img {
+    width: 350px;
+    border-radius: 50%;
+}
+
+/* Características sobre mim */
+
+.profile-text p {
+    text-align: justify;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+/* Características das habilidades */
+
+h3 {
+  text-align: center;
+  text-decoration: solid;
+  font-weight: bold;
+  /*falta centralizar essa parte de habilidades*/
+}
+
+.skills {
+   /* quero quebrar essa lista e deixar um do lado do outro*/
+   text-align: center;
+}
+
+.soft-skills li {
+    text-align: center;
+    list-style-type: none;
+    font-size: 16px;
+}
+.hard-skills li {
+    text-align: center;
+    list-style-type: none;
+    font-size: 17px;
+}
