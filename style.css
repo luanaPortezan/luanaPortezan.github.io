@@ -1,0 +1,16 @@
+body {
+    background-color: #ead6d5;
+    font-family: 'Montserrat', sans-serif;
+	text-align:left;
+	font-family: arial;
+}
+
+
+.navigation {
+    background-color: #958888;
+    height: 50px;
+}
+ 
+h1 {
+    color: #403b3a
+}
