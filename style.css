@@ -35,7 +35,8 @@ body {
 /* Características do nome */
 
 h1 {
-    color: #403b3a
+    color: #403b3a;
+    text-align: center;
 }
 
 /* Características da foto do perfil */
