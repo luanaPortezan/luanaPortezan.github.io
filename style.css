@@ -34,7 +34,7 @@ body {
 
 /* Características do nome */
 
-h1 {
+.name h1 {
     color: #403b3a;
     text-align: center;
 }
@@ -44,6 +44,8 @@ h1 {
 img {
     width: 350px;
     border-radius: 50%;
+    padding: 5px;
+    background-color: #958888;
 }
 
 /* Características sobre mim */
